@@ -1,0 +1,7 @@
+celeba/clip: SHA256=da07557c1832317732c61d9b2e7615efbb4bfa6bbf999e079386cfa517c25407 shape=(202599, 768) dtype=float32 (frozen checksum; header inspected read-only)
+celeba/dinov2: SHA256=8e6fa86db1020d13b24c2bd7516bc6dcb74a9df235ebd7cc7feb41a700ebf54e shape=(202599, 768) dtype=float32 (frozen checksum; header inspected read-only)
+celeba/siglip: SHA256=8809aa8e1712e713626bf7e70f38cda6d9e784c44dbd8e52198f06dcfc1da502 shape=(202599, 768) dtype=float32 (frozen checksum; header inspected read-only)
+celeba/mae: SHA256=a96378ded127ed2c82d206d0e2b4906511f7cd71737474eed20bbf60cba769a5 shape=(202599, 768) dtype=float32 (frozen checksum; header inspected read-only)
+candid/rad-dino: SHA256=6fcaff8cc49b9d3d68ff79fa33567dee6f441af2c925111a93d4761dc212a3bd shape=(19237, 768) dtype=float32 (frozen checksum; header inspected read-only)
+candid/dinov2: SHA256=438bf2a9ff6356013211a7123db066255ff4aa2ebb29f8f843368f142c9b50a1 shape=(19237, 768) dtype=float32 (frozen checksum; header inspected read-only)
+candid/biomedclip: SHA256=47a4748240dd0a8eb47a79bbe518ab49eab1ce6ee845ad5d245f15e9bdbb2260 shape=(19237, 768) dtype=float32 (frozen checksum; header inspected read-only)

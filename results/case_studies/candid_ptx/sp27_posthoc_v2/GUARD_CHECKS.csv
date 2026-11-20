@@ -1,0 +1,13 @@
+analysis_title,model,scenario,fold,method,check,value,lower,upper,passed,split_sha256,coefficient_norm
+POST HOC – not preregistered,rad-dino,S-out,0,splince,fit_cov_Z_WNone,3.4653033542041593e-14,0.0,1e-10,True,ff083f04f5aad906566acffd4a76d640d62ed68a6df4ac77632eccfc6c5848a3,
+POST HOC – not preregistered,rad-dino,S-out,0,splince,fit_cov_W_preserved,6.644457142609959e-14,0.0,1e-10,True,ff083f04f5aad906566acffd4a76d640d62ed68a6df4ac77632eccfc6c5848a3,
+POST HOC – not preregistered,rad-dino,S-out,0,splince,rank,767.0,767.0,767.0,True,ff083f04f5aad906566acffd4a76d640d62ed68a6df4ac77632eccfc6c5848a3,
+POST HOC – not preregistered,rad-dino,S-out,0,weber,fit_cov_Z_WNone,2.2890625138730165e-15,0.0,1e-10,True,ff083f04f5aad906566acffd4a76d640d62ed68a6df4ac77632eccfc6c5848a3,
+POST HOC – not preregistered,rad-dino,S-rel,0,leace,fit_cov_Z_WNone,2.7377581967286878e-15,0.0,1e-10,True,ff083f04f5aad906566acffd4a76d640d62ed68a6df4ac77632eccfc6c5848a3,
+POST HOC – not preregistered,rad-dino,S-rel,0,leace,rank,1.0,1.0,1.0,True,ff083f04f5aad906566acffd4a76d640d62ed68a6df4ac77632eccfc6c5848a3,
+POST HOC – not preregistered,rad-dino,S-rel,0,leace,release_insample_AUROC_WNone,0.5,0.48,0.52,True,ff083f04f5aad906566acffd4a76d640d62ed68a6df4ac77632eccfc6c5848a3,0.0
+POST HOC – not preregistered,rad-dino,S-rel,0,leace_cc2,fit_cov_Z_W0,3.5400035944128004e-14,0.0,1e-10,True,ff083f04f5aad906566acffd4a76d640d62ed68a6df4ac77632eccfc6c5848a3,
+POST HOC – not preregistered,rad-dino,S-rel,0,leace_cc2,fit_cov_Z_W1,3.563425425087013e-14,0.0,1e-10,True,ff083f04f5aad906566acffd4a76d640d62ed68a6df4ac77632eccfc6c5848a3,
+POST HOC – not preregistered,rad-dino,S-rel,0,leace_cc2,rank,2.0,2.0,2.0,True,ff083f04f5aad906566acffd4a76d640d62ed68a6df4ac77632eccfc6c5848a3,
+POST HOC – not preregistered,rad-dino,S-rel,0,leace_cc2,release_insample_AUROC_W0,0.513667176907938,0.48,0.52,True,ff083f04f5aad906566acffd4a76d640d62ed68a6df4ac77632eccfc6c5848a3,
+POST HOC – not preregistered,rad-dino,S-rel,0,leace_cc2,release_insample_AUROC_W1,0.5247223441917473,0.48,0.52,False,ff083f04f5aad906566acffd4a76d640d62ed68a6df4ac77632eccfc6c5848a3,

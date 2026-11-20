@@ -1,0 +1,11 @@
+analysis_title,model,quantity,estimate,ci95_low,ci95_high,n_boot_total,n_boot_valid,n_boot_undefined,metric,scenario,method
+POST HOC – not preregistered,rad-dino,S-rel::leace@@impute_share_linear,,,,1000,0,1000,impute_share_linear,S-rel,leace
+POST HOC – not preregistered,rad-dino,S-rel::leace_cc2@@impute_share_linear,3.423540771263405,2.155720528264103,11.324882490886392,1000,992,8,impute_share_linear,S-rel,leace_cc2
+POST HOC – not preregistered,rad-dino,S-rel::splince@@impute_share_linear,,,,1000,0,1000,impute_share_linear,S-rel,splince
+POST HOC – not preregistered,rad-dino,S-rel::weber@@impute_share_linear,,,,1000,0,1000,impute_share_linear,S-rel,weber
+POST HOC – not preregistered,dinov2,S-rel::leace@@impute_share_linear,,,,1000,0,1000,impute_share_linear,S-rel,leace
+POST HOC – not preregistered,dinov2,S-rel::splince@@impute_share_linear,,,,1000,0,1000,impute_share_linear,S-rel,splince
+POST HOC – not preregistered,dinov2,S-rel::weber@@impute_share_linear,,,,1000,0,1000,impute_share_linear,S-rel,weber
+POST HOC – not preregistered,biomedclip,S-rel::leace@@impute_share_linear,,,,1000,0,1000,impute_share_linear,S-rel,leace
+POST HOC – not preregistered,biomedclip,S-rel::splince@@impute_share_linear,,,,1000,0,1000,impute_share_linear,S-rel,splince
+POST HOC – not preregistered,biomedclip,S-rel::weber@@impute_share_linear,,,,1000,0,1000,impute_share_linear,S-rel,weber

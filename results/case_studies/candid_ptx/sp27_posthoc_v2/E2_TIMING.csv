@@ -1,0 +1,4 @@
+analysis_title,model,n_reader_jobs,reader_seconds_sum,bootstrap_seconds
+POST HOC – not preregistered,rad-dino,30,637.5542380510597,84.60390359704616
+POST HOC – not preregistered,dinov2,30,1086.993944534799,84.63659992290195
+POST HOC – not preregistered,biomedclip,30,1142.0782572680037,84.4868530560052

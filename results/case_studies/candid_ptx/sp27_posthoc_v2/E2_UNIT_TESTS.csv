@@ -1,0 +1,8 @@
+analysis_title,test,value,bound,relation,passed
+POST HOC – not preregistered,P_Cov_xZ_zero,4.163336342344337e-17,1e-08,<=,True
+POST HOC – not preregistered,P_Cov_xW_preserved,2.0816681711721685e-16,1e-08,<=,True
+POST HOC – not preregistered,projection_idempotence,2.1094237467877974e-15,1e-08,<=,True
+POST HOC – not preregistered,projection_rank,15.0,15.0,==,True
+POST HOC – not preregistered,same_kernel_as_LEACE,6.323465820553024e-16,1e-08,<=,True
+POST HOC – not preregistered,C1e8_retrained_W_AUROC_difference,0.0,0.0001,<=,True
+POST HOC – not preregistered,Weber_fit_covariance_relative,1.5978086969550327e-15,1e-10,<=,True
